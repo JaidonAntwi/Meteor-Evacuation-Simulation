@@ -7,11 +7,11 @@ Description:
 
 
 - This project demonstrates core C++ concepts such as:
-	•	Modular program design using header files
-	•	Pass-by-reference for efficient data handling
-	•	Input validation using loops
-	•	Conditional logic for decision-making
-	•	Console formatting and color output using the Windows API
+    - Modular program design using header files
+    - Pass-by-reference for efficient data handling
+    - Input validation using loops
+    - Conditional logic for decision-making
+    - Console formatting and color output using the Windows API
 
 The program runs repeatedly until the user chooses to exit, making it an interactive and user-friendly experience.
 
@@ -19,10 +19,10 @@ The program runs repeatedly until the user chooses to exit, making it an interac
 Getting Started: 
 
 Dependencies:
-To compile and run this program, you will need:
-	•	Windows OS (uses windows.h for console color output)
-	•	A C++ compiler 
-	•	A C++ IDE or editor (Code::Blocks or VS Code)
+- To compile and run this program, you will need:
+    - Windows OS (uses windows.h for console color output)
+    - A C++ compiler 
+    - A C++ IDE or editor (Code::Blocks or VS Code)
 
 
 Installing:
@@ -36,10 +36,10 @@ Installing:
 
 Executing Program:
 - Follow the on-screen prompts:
-	•	Enter meteor diameter (meters)
-	•	Enter distance from ISS (miles)
-	•	View calculated results and evacuation status
-	•	Choose whether to run the simulation again
+    - Enter meteor diameter (meters)
+    - Enter distance from ISS (miles)
+    - View calculated results and evacuation status
+    - Choose whether to run the simulation again
 
 
 Authors:
