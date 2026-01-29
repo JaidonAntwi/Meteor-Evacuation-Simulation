@@ -35,7 +35,7 @@ Installing:
 3. Be sure that main.cpp and MeteorEvacuationFunctions.h are within the same directory.
 
 Executing Program:
-Follow the on-screen prompts:
+- Follow the on-screen prompts:
 	•	Enter meteor diameter (meters)
 	•	Enter distance from ISS (miles)
 	•	View calculated results and evacuation status
